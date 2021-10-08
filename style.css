@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(47, 211, 197);
+    
+    }
+    #camera,#result{
+        width:40%;
+        height:40%;
+        border:1px solid rgb(185, 26, 124);
+    }
+    b{
+        color: rgba(21, 77, 245, 0.87);
+    }
